@@ -1,0 +1,274 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>VCIWU Helpdesk Chatbot</title>
+    <style>
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+            font-family: Arial, sans-serif;
+        }
+
+        body {
+            min-height: 100vh;
+            background: linear-gradient(135deg, #f7d6e0, #d9e4ff);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            padding: 20px;
+        }
+
+        .chat-wrapper {
+            width: 100%;
+            max-width: 900px;
+            height: 90vh;
+            background: rgba(255, 255, 255, 0.95);
+            border-radius: 24px;
+            box-shadow: 0 20px 50px rgba(0, 0, 0, 0.12);
+            overflow: hidden;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .chat-header {
+            background: linear-gradient(135deg, #7b2cbf, #c77dff);
+            color: white;
+            padding: 22px 24px;
+        }
+
+        .chat-header h1 {
+            font-size: 24px;
+            margin-bottom: 6px;
+        }
+
+        .chat-header p {
+            font-size: 14px;
+            opacity: 0.95;
+        }
+
+        .chat-box {
+            flex: 1;
+            padding: 20px;
+            overflow-y: auto;
+            background: #faf8ff;
+            scroll-behavior: smooth;
+        }
+
+        .message {
+            display: flex;
+            margin-bottom: 16px;
+        }
+
+        .message.user {
+            justify-content: flex-end;
+        }
+
+        .bubble {
+            max-width: 75%;
+            padding: 14px 16px;
+            border-radius: 18px;
+            line-height: 1.5;
+            font-size: 15px;
+            word-wrap: break-word;
+            box-shadow: 0 6px 14px rgba(0, 0, 0, 0.08);
+        }
+
+        .user .bubble {
+            background: #7b2cbf;
+            color: white;
+            border-bottom-right-radius: 6px;
+        }
+
+        .bot .bubble {
+            background: white;
+            color: #222;
+            border-bottom-left-radius: 6px;
+        }
+
+        .bot-label,
+        .user-label {
+            font-size: 12px;
+            margin-bottom: 4px;
+            opacity: 0.7;
+        }
+
+        .input-area {
+            display: flex;
+            gap: 12px;
+            padding: 18px;
+            background: white;
+            border-top: 1px solid #eee;
+        }
+
+        .input-area input {
+            flex: 1;
+            padding: 14px 16px;
+            border: 1px solid #d6c8f5;
+            border-radius: 14px;
+            outline: none;
+            font-size: 15px;
+        }
+
+        .input-area input:focus {
+            border-color: #7b2cbf;
+            box-shadow: 0 0 0 3px rgba(123, 44, 191, 0.12);
+        }
+
+        .input-area button {
+            padding: 14px 22px;
+            border: none;
+            border-radius: 14px;
+            background: linear-gradient(135deg, #7b2cbf, #9d4edd);
+            color: white;
+            font-size: 15px;
+            cursor: pointer;
+            transition: transform 0.15s ease, opacity 0.15s ease;
+        }
+
+        .input-area button:hover {
+            opacity: 0.95;
+            transform: translateY(-1px);
+        }
+
+        .quick-questions {
+            display: flex;
+            gap: 10px;
+            flex-wrap: wrap;
+            padding: 0 18px 16px 18px;
+            background: white;
+        }
+
+        .quick-btn {
+            border: 1px solid #dccdf8;
+            background: #f6f1ff;
+            color: #5a189a;
+            padding: 10px 14px;
+            border-radius: 999px;
+            cursor: pointer;
+            font-size: 13px;
+        }
+
+        .quick-btn:hover {
+            background: #eee4ff;
+        }
+
+        @media (max-width: 600px) {
+            .chat-wrapper {
+                height: 95vh;
+                border-radius: 18px;
+            }
+
+            .chat-header h1 {
+                font-size: 20px;
+            }
+
+            .bubble {
+                max-width: 88%;
+                font-size: 14px;
+            }
+
+            .input-area {
+                flex-direction: column;
+            }
+
+            .input-area button {
+                width: 100%;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="chat-wrapper">
+        <div class="chat-header">
+            <h1>🎓 VCIWU Helpdesk Chatbot</h1>
+            <p>Ask about admissions, fees, exams, hostel, facilities, and more.</p>
+        </div>
+
+        <div class="chat-box" id="chatBox">
+            <div class="message bot">
+                <div class="bubble">
+                    <div class="bot-label">Bot</div>
+                    Hello! I am your college helpdesk chatbot. How can I help you today?
+                </div>
+            </div>
+        </div>
+
+        <div class="quick-questions">
+            <button class="quick-btn" onclick="quickAsk('What is the admission process?')">Admission</button>
+            <button class="quick-btn" onclick="quickAsk('What is the fee structure?')">Fees</button>
+            <button class="quick-btn" onclick="quickAsk('When are exams conducted?')">Exams</button>
+            <button class="quick-btn" onclick="quickAsk('Is hostel available?')">Hostel</button>
+            <button class="quick-btn" onclick="quickAsk('Who are you?')">About Bot</button>
+        </div>
+
+        <div class="input-area">
+            <input
+                type="text"
+                id="msg"
+                placeholder="Type your question here..."
+                onkeypress="handleKeyPress(event)"
+            >
+            <button onclick="sendMessage()">Send</button>
+        </div>
+    </div>
+
+    <script>
+        function addMessage(sender, text) {
+            const chatBox = document.getElementById("chatBox");
+            const messageDiv = document.createElement("div");
+            messageDiv.className = "message " + sender;
+
+            const bubbleDiv = document.createElement("div");
+            bubbleDiv.className = "bubble";
+
+            const labelDiv = document.createElement("div");
+            labelDiv.className = sender === "user" ? "user-label" : "bot-label";
+            labelDiv.textContent = sender === "user" ? "You" : "Bot";
+
+            bubbleDiv.appendChild(labelDiv);
+            bubbleDiv.appendChild(document.createTextNode(text));
+            messageDiv.appendChild(bubbleDiv);
+            chatBox.appendChild(messageDiv);
+
+            chatBox.scrollTop = chatBox.scrollHeight;
+        }
+
+        function sendMessage() {
+            const input = document.getElementById("msg");
+            const msg = input.value.trim();
+
+            if (!msg) return;
+
+            addMessage("user", msg);
+            input.value = "";
+
+            fetch("/get", {
+                method: "POST",
+                headers: { "Content-Type": "application/x-www-form-urlencoded" },
+                body: "msg=" + encodeURIComponent(msg)
+            })
+            .then(response => response.json())
+            .then(data => {
+                addMessage("bot", data.response);
+            })
+            .catch(() => {
+                addMessage("bot", "Sorry, something went wrong. Please try again.");
+            });
+        }
+
+        function handleKeyPress(event) {
+            if (event.key === "Enter") {
+                sendMessage();
+            }
+        }
+
+        function quickAsk(question) {
+            document.getElementById("msg").value = question;
+            sendMessage();
+        }
+    </script>
+</body>
+</html>

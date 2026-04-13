@@ -1,0 +1,491 @@
+category,question,answer
+Basic,Who are you?,I am a college helpdesk chatbot for Veeranari Chakali Ilamma Women's University Hyderabad.
+Basic,What is your purpose?,My purpose is to help students with college related queries.
+Basic,How can you help me?,I provide information about admissions courses exams facilities and campus life.
+Basic,What college is this?,This is Veeranari Chakali Ilamma Women's University Hyderabad.
+Basic,Where is this university located?,It is located in Koti Hyderabad Telangana.
+Basic,Is this a women's college?,Yes it is a women's university.
+Basic,When was the college established?,The institution was established in 1924.
+Basic,Is this a government university?,Yes it is a state university.
+Basic,What was the previous name of the college?,It was previously Osmania University College for Women. 
+Basic,Is it affiliated to Osmania University?,It is historically associated and follows Osmania University academic system.
+Basic,Is it NAAC accredited?,Yes the university has NAAC accreditation. 
+Basic,Is it a good college?,Yes it is one of the oldest women's institutions with good academic reputation.
+Basic,How many students study here?,Thousands of students study here from across Telangana.
+Basic,Is the campus large?,Yes the campus is spread across a large area in Koti. 
+Basic,Is the campus safe?,Yes the campus provides a safe environment for women students.
+Basic,Is this autonomous?,The college had autonomous status earlier under Osmania University.
+Basic,Is it a university now?,Yes it was upgraded to a university in recent years. 
+Basic,What type of institution is this?,It is a public women's university.
+Basic,Does it have history?,Yes it is a heritage campus with historical importance. 
+Basic,Is it popular in Hyderabad?,Yes it is a well known women's institution in Hyderabad.
+Admissions,How can I get admission?,You can apply through DOST for UG courses.
+Admissions,Is admission online?,Yes admission process is online.
+Admissions,Which exams are required?,DOST for UG TS ICET and TS CPGET for PG. 
+Admissions,What is DOST?,DOST is the Telangana degree admission portal.
+Admissions,What is TS CPGET?,It is entrance exam for postgraduate courses.
+Admissions,What is TS ICET?,It is entrance exam for MBA and MCA.
+Admissions,What documents are needed?,Marksheets certificates and ID proof are required.
+Admissions,Is merit required?,Yes admissions are merit based.
+Admissions,Is reservation available?,Yes as per government rules.
+Admissions,When do admissions start?,After Intermediate results.
+Admissions,Is there offline admission?,Mostly online but office support is available.
+Admissions,Can I change course later?,Depends on university rules.
+Admissions,Is there entrance test for UG?,No UG admission is based on DOST.
+Admissions,What is cut off?,Cut off varies based on course demand.
+Admissions,Can I apply for multiple colleges?,Yes through DOST options.
+Admissions,Is there management quota?,Depends on university policy.
+Admissions,Can I cancel admission?,Yes as per guidelines.
+Admissions,How to confirm seat?,By paying fees online.
+Admissions,What if I miss admission date?,You may apply in next phase.
+Admissions,Is help available for admission?,Yes college provides guidance support.
+Academics,How many courses are offered?,The university offers many UG and PG programs.
+Academics,What streams are available?,Arts Science and Commerce streams are available.
+Academics,Is MSc available?,Yes multiple MSc courses are available. 
+Academics,Is MCA available?,Yes MCA course is available.
+Academics,Is Data Science available?,Yes MSc Data Science is available. 
+Academics,How many departments are there?,Many departments across streams exist. 
+Academics,Is syllabus updated?,Yes syllabus is updated regularly.
+Academics,Who prepares syllabus?,Osmania University academic system.
+Academics,Are there practical labs?,Yes labs are available.
+Academics,Is attendance important?,Yes minimum attendance required.
+Academics,Are internal exams conducted?,Yes internal assessments are conducted.
+Academics,How many semesters?,Usually six semesters for UG.
+Academics,Are assignments given?,Yes assignments are part of evaluation.
+Academics,Is project work included?,Yes some courses include projects.
+Academics,Is English compulsory?,Yes basic English is part of curriculum.
+Academics,Are there elective subjects?,Yes electives are available.
+Academics,Are faculty qualified?,Yes faculty are experienced and qualified.
+Academics,Is academic support provided?,Yes mentoring and guidance is available. 
+Academics,Is research available?,Yes research and publications exist.
+Facilities,Is hostel available?,Yes hostel facilities are available. 
+Facilities,Is library available?,Yes central library is available.
+Facilities,Is WiFi available?,Yes campus has internet facilities. 
+Facilities,Are labs available?,Yes well equipped labs are available.
+Facilities,Is there cafeteria?,Yes food facilities are available. 
+Facilities,Is health centre available?,Yes medical facilities are available.
+Facilities,Is gym available?,Yes gym facilities are available. 
+Facilities,Is there auditorium?,Yes seminar halls and auditorium are available. 
+Facilities,Is cyber centre available?,Yes cyber facilities are available.
+Facilities,Are classrooms good?,Yes classrooms are well maintained.
+Facilities,Is campus clean?,Yes campus is clean and green.
+Facilities,Is there security?,Yes security is available.
+Facilities,Is parking available?,Yes parking facilities exist.
+Facilities,Are there gardens?,Yes horticulture and gardens are present. 
+Facilities,Is campus big?,Yes it is a large campus.
+Facilities,Are smart classrooms available?,Yes modern teaching methods are used.
+Facilities,Is drinking water available?,Yes clean water facilities are available.
+Facilities,Is there digital library?,Yes digital resources are available. 
+Facilities,Is infrastructure good?,Yes infrastructure is good. 
+Facilities,Are seminar halls available?,Yes seminar halls are available. 
+Sports,Are sports available?,Yes sports activities are encouraged. 
+Sports,What sports are available?,Students can participate in indoor and outdoor sports.
+Sports,Is there sports ground?,Yes sports facilities are available.
+Sports,Is physical education available?,Yes physical education support exists. 
+Sports,Are competitions conducted?,Yes sports competitions are held.
+Sports,Can students join sports?,Yes all students can participate.
+Sports,Are coaches available?,Yes physical trainers guide students.
+Sports,Is sports compulsory?,It is optional but encouraged.
+Sports,Are inter college matches held?,Yes students participate in competitions.
+Sports,Are indoor games available?,Yes indoor games are available.
+
+NCC,Is NCC available?,Yes NCC is available in the university. 
+NCC,What is NCC?,NCC is National Cadet Corps for discipline and training.
+NCC,How to join NCC?,Students can enroll through college selection.
+NCC,What are NCC benefits?,It improves leadership discipline and career opportunities.
+NCC,Does NCC help in jobs?,Yes it helps in defense and government jobs.
+NCC,Is training given in NCC?,Yes regular training is provided.
+NCC,Are camps conducted?,Yes NCC camps are organized.
+NCC,Is certificate provided?,Yes NCC certificates are awarded.
+NCC,Is attendance needed for NCC?,Yes participation is required.
+NCC,Can all students join NCC?,Selection is based on criteria.
+
+NSS,Is NSS available?,Yes NSS unit is active. 
+NSS,What is NSS?,NSS is National Service Scheme for social service.
+NSS,What activities NSS does?,It conducts social service and awareness programs.
+NSS,How to join NSS?,Students can register through college.
+NSS,What is NSS motto?,The motto is Not Me But You. 
+NSS,Does NSS help society?,Yes it promotes social responsibility.
+NSS,Are camps conducted?,Yes NSS camps are organized.
+NSS,Is certificate given?,Yes participation certificates are provided.
+NSS,Is NSS useful?,Yes it develops leadership and social skills.
+NSS,Can students participate in NSS?,Yes students are encouraged.
+Fees,What is the fee structure?,Fee structure varies depending on course and category.
+Fees,How much is BA fee?,BA fees range around 14000 to 98000 for full course. 
+Fees,How much is BSc fee?,BSc fees range around 20000 to 160000 depending on specialization.
+Fees,How much is MSc fee?,MSc fees range from 42000 to 200000 for full course.
+Fees,Is fee affordable?,Yes fees follow government norms and are affordable.
+Fees,Is fee same for all courses?,No fees differ based on course and specialization.
+Fees,Is there semester fee?,Yes semester exam fees are charged separately.
+Fees,Can I pay fees online?,Yes fees can be paid online or through college office.
+Fees,Is fee refundable?,Refund depends on university rules.
+Fees,Are scholarships available?,Yes government scholarships are available.
+Fees,Is fee reimbursement available?,Yes eligible students get fee reimbursement.
+Fees,Do SC ST students get benefits?,Yes as per Telangana government rules.
+Fees,Do minority students get scholarship?,Yes eligible students can apply.
+Fees,Is hostel fee included?,No hostel fee is separate.
+Fees,What is hostel fee?,Hostel fee is around 5000 to 7200 per year plus mess charges.
+Fees,Is exam fee included?,No exam fee is separate.
+Fees,Is there fine for late payment?,Yes late fee may be applied.
+Fees,Can I pay fees in installments?,Depends on college policy.
+Fees,Is there any extra charges?,Yes lab and exam fees may apply.
+Fees,Where to check fee details?,You can check at college office or official website.
+Exams,When are exams conducted?,Exams are conducted semester wise.
+Exams,How many exams in a year?,Usually two semesters per year.
+Exams,Who conducts exams?,Exams are conducted under university guidelines.
+Exams,When are results released?,Results are released after evaluation on university portal.
+Exams,Where to check results?,Results can be checked online.
+Exams,What are passing marks?,Students must secure minimum marks as per university rules.
+Exams,What is internal exam?,Internal exams are conducted before semester exams.
+Exams,Are assignments important?,Yes assignments are part of internal marks.
+Exams,What is hall ticket?,Hall ticket is required to appear for exams.
+Exams,How to get hall ticket?,It is issued by college or available online.
+Exams,What is revaluation?,Revaluation is rechecking of answer scripts.
+Exams,How to apply for revaluation?,Apply through examination branch after results.
+Exams,Is improvement exam available?,Yes improvement exams are available.
+Exams,What is supplementary exam?,It is for students who failed in exams.
+Exams,When is supplementary exam?,After regular exam results.
+Exams,Is attendance required for exams?,Yes minimum attendance is required.
+Exams,Can I write exam with low attendance?,Usually not allowed.
+Exams,Is exam tough?,Depends on preparation.
+Exams,Are practical exams conducted?,Yes practical exams are conducted.
+Exams,Are exams online or offline?,Mostly offline exams are conducted.
+Hostel,Is hostel available?,Yes hostel facility is available for students.
+Hostel,Who can apply for hostel?,Students from long distance can apply.
+Hostel,Is hostel available for all?,No limited seats are available.
+Hostel,Is hostel available for first year?,Generally first year students may not get hostel easily.
+Hostel,How to apply for hostel?,Apply through hostel office.
+Hostel,What is hostel fee?,Around 5000 to 7200 per year plus mess charges.
+Hostel,Is hostel safe?,Yes hostel has security.
+Hostel,Is food provided?,Yes mess facility is available.
+Hostel,Is hostel compulsory?,No it is optional.
+Hostel,Are PG students allowed hostel?,Hostel mostly for UG students.
+Hostel,Are rooms shared?,Yes rooms are shared.
+Hostel,Is electricity available?,Yes basic facilities available.
+Hostel,Is water available?,Yes water facility is available.
+Hostel,Is internet available?,Limited internet may be available.
+Hostel,Is hostel strict?,Yes rules must be followed.
+Hostel,Is leave allowed in hostel?,Yes with permission.
+Hostel,Is curfew there?,Yes hostel timing rules exist.
+Hostel,Is ragging allowed?,No ragging is strictly prohibited.
+Hostel,Who manages hostel?,Hostel wardens manage hostel.
+Hostel,Where is hostel located?,Hostel is inside or near campus.
+StudentLife,Are cultural events conducted?,Yes regular cultural events are conducted.
+StudentLife,Are fests conducted?,Yes college fests are organized.
+StudentLife,Can students participate in events?,Yes students are encouraged.
+StudentLife,Are clubs available?,Yes various clubs exist.
+StudentLife,Is campus life good?,Yes campus life is active.
+StudentLife,Are seminars conducted?,Yes academic seminars are conducted.
+StudentLife,Are workshops conducted?,Yes skill workshops are organized.
+StudentLife,Is there student support?,Yes guidance is provided.
+StudentLife,Is campus safe for girls?,Yes it is a women's university.
+StudentLife,Is counseling available?,Yes support may be available.
+StudentLife,Is there discipline?,Yes strict discipline is followed.
+StudentLife,Are extracurricular activities encouraged?,Yes students are encouraged.
+StudentLife,Are competitions held?,Yes academic and cultural competitions occur.
+StudentLife,Is attendance strict?,Yes attendance rules are followed.
+StudentLife,Can students give feedback?,Yes feedback systems exist.
+StudentLife,Is ragging prohibited?,Yes ragging is banned.
+StudentLife,Are celebrations done?,Yes festivals are celebrated.
+StudentLife,Are guest lectures conducted?,Yes guest lectures are organized.
+StudentLife,Is personality development encouraged?,Yes students are trained.
+StudentLife,Is leadership encouraged?,Yes leadership skills are developed.
+AntiRagging,Is ragging allowed?,No ragging is strictly prohibited in the university.
+AntiRagging,What happens if ragging occurs?,Strict disciplinary action is taken against students.
+AntiRagging,Is there anti ragging committee?,Yes anti ragging committee is present.
+AntiRagging,How to complain about ragging?,Students can report to faculty or authorities.
+AntiRagging,Is ragging punishable?,Yes it is punishable under law.
+AntiRagging,Is campus ragging free?,Yes the campus is ragging free.
+AntiRagging,Can seniors interact with juniors?,Yes but in a respectful manner only.
+AntiRagging,Is awareness provided about ragging?,Yes awareness programs are conducted.
+AntiRagging,Who handles ragging complaints?,College authorities and committees handle it.
+AntiRagging,Is there helpline for ragging?,Yes helpline support is available.
+AntiRagging,Can I complain anonymously?,Yes complaints can be confidential.
+AntiRagging,Is ragging a crime?,Yes it is a criminal offense.
+AntiRagging,What is anti ragging policy?,Zero tolerance policy against ragging.
+AntiRagging,Are students safe from ragging?,Yes safety is ensured.
+AntiRagging,Is monitoring done in campus?,Yes strict monitoring is done.
+AntiRagging,Are freshers protected?,Yes special care is taken.
+AntiRagging,Is ragging common?,No it is strictly controlled.
+AntiRagging,Is counseling given for victims?,Yes support is provided.
+AntiRagging,Can parents complain?,Yes parents can also report.
+AntiRagging,Is anti ragging form required?,Yes students submit anti ragging declaration.
+Discipline,Is discipline important?,Yes discipline is strictly maintained.
+Discipline,What are college rules?,Students must follow attendance and behavior rules.
+Discipline,Is uniform required?,Students should follow dress code.
+Discipline,Is mobile allowed?,Mobile use is restricted in classrooms.
+Discipline,Can I use phone in class?,No phone use is not allowed during class.
+Discipline,Is ID card compulsory?,Yes ID card must be carried.
+Discipline,What if I break rules?,Disciplinary action may be taken.
+Discipline,Is late coming allowed?,Late coming may not be allowed.
+Discipline,Can I leave early?,Only with permission.
+Discipline,Are there strict rules?,Yes rules are strictly followed.
+Discipline,Is attendance checked daily?,Yes attendance is monitored.
+Discipline,Can I bunk classes?,No attendance is important.
+Discipline,Is behavior important?,Yes good behavior is expected.
+Discipline,Are punishments given?,Yes if rules are violated.
+Discipline,Is dress code compulsory?,Yes students should follow it.
+Discipline,Is campus monitored?,Yes security and discipline are maintained.
+Discipline,Is permission required for leave?,Yes proper permission is needed.
+Discipline,Can I bring outsiders?,No outsiders are not allowed.
+Discipline,Are rules same for all?,Yes rules apply to all students.
+Discipline,Is discipline strict?,Yes discipline is maintained strictly.
+Health,Is medical facility available?,Yes basic medical support is available.
+Health,Is first aid available?,Yes first aid is available.
+Health,Is there health centre?,Yes health support facilities exist.
+Health,What if I feel sick?,Inform faculty or visit medical facility.
+Health,Is emergency help available?,Yes emergency help is available.
+Health,Is ambulance available?,Depends on situation and availability.
+Health,Are health camps conducted?,Yes sometimes health camps are organized.
+Health,Is hygiene maintained?,Yes hygiene is maintained.
+Health,Is drinking water safe?,Yes safe drinking water is provided.
+Health,Is sanitation good?,Yes sanitation is maintained.
+Health,Can I take medical leave?,Yes with valid reason.
+Health,Do I need medical proof?,Yes for long leave.
+Health,Is mental health support available?,Yes counseling support may be available.
+Health,Is stress management support given?,Yes through counseling sessions.
+Health,Are medical rooms available?,Yes basic medical room is available.
+Health,Is COVID safety followed?,Yes guidelines are followed when required.
+Health,Is vaccination required?,Depends on government rules.
+Health,Can I rest if unwell?,Yes with permission.
+Health,Is health awareness done?,Yes awareness programs are conducted.
+Health,Is doctor available?,Doctor visits may be arranged.
+Leave,Can I take leave?,Yes leave can be taken with permission.
+Leave,How to apply for leave?,Inform faculty or submit request.
+Leave,Is leave allowed during exams?,Only in special cases.
+Leave,Is medical leave allowed?,Yes with proof.
+Leave,Can I take long leave?,Depends on reason and approval.
+Leave,Do I need permission for leave?,Yes permission is required.
+Leave,Is leave record maintained?,Yes attendance records are maintained.
+Leave,Can I take emergency leave?,Yes in emergency situations.
+Leave,Is leave allowed for events?,Depends on approval.
+Leave,Can I take leave without informing?,No it is not allowed.
+Leave,Is leave allowed for personal work?,Yes with permission.
+Leave,Is leave counted in attendance?,Depends on rules.
+Leave,Can parents inform leave?,Yes parents can inform.
+Leave,Is leave approval required?,Yes approval is needed.
+Leave,Is absence allowed?,Only with valid reason.
+Leave,Can I attend online if absent?,Depends on faculty.
+Leave,Is leave allowed during practicals?,Only with permission.
+Leave,Is leave allowed for sports?,Yes if approved.
+Leave,Is leave allowed for NCC NSS?,Yes with approval.
+Leave,Is leave strict?,Yes rules are followed.
+Digital,Is online portal available?,Yes online services are available.
+Digital,Can I check results online?,Yes results are available online.
+Digital,Can I apply online?,Yes admissions and forms are online.
+Digital,Is hall ticket online?,Yes it may be downloaded online.
+Digital,Is fee payment online?,Yes online payment is available.
+Digital,Is timetable online?,Yes it may be available.
+Digital,Is attendance online?,Some systems may provide it.
+Digital,Is website useful?,Yes official website provides information.
+Digital,Is online support available?,Yes help is available.
+Digital,Can I submit forms online?,Yes many forms are online.
+Digital,Is email used for communication?,Yes official emails are used.
+Digital,Is WhatsApp used?,Some updates may be shared.
+Digital,Is notice board online?,Yes digital notices may be available.
+Digital,Can I download certificates?,Some certificates may be online.
+Digital,Is exam form online?,Yes exam forms may be online.
+Digital,Is admission portal used?,Yes DOST and CPGET portals are used.
+Digital,Is login required?,Yes for certain services.
+Digital,Is data safe?,Yes official systems are used.
+Digital,Can I access from mobile?,Yes mobile access is possible.
+Digital,Is digital learning available?,Yes some online resources exist.
+Admin,Where is college office?,Office is in campus administrative block. 
+Admin,What are office timings?,Office works from 10 AM to 5 PM. 
+Admin,How to contact office?,Visit office or call official number.
+Admin,Is staff helpful?,Yes staff assist students.
+Admin,Are forms available?,Yes forms are available in office.
+Admin,Is admission help available?,Yes guidance is provided.
+Admin,Where is exam branch?,Exam branch is in campus.
+Admin,How to contact exam branch?,Contact through office or phone.
+Admin,Can I get certificates from office?,Yes certificates are issued.
+Admin,Is office open daily?,Yes on working days.
+Admin,Is principal office available?,Yes principal office is in campus.
+Admin,Can I meet staff?,Yes during office hours.
+Admin,Is administration supportive?,Yes helps students.
+Admin,Can I get help for documents?,Yes office provides support.
+Admin,Is complaint handled in office?,Yes complaints are addressed.
+Admin,Is admission office separate?,Yes separate sections exist.
+Admin,Is exam help provided?,Yes students are guided.
+Admin,Is office strict?,Yes rules are followed.
+Admin,Is office accessible?,Yes easily accessible.
+Admin,Is administration efficient?,Yes services are provided efficiently.
+Transport,Where is the university located?,It is located in Koti Hyderabad Telangana.
+Transport,Is college easy to reach?,Yes well connected by public transport.
+Transport,Is metro available?,Yes metro is nearby.
+Transport,Is bus available?,Yes TSRTC buses are available.
+Transport,Is auto available?,Yes autos are available.
+Transport,Is parking available?,Yes parking facilities exist.
+Transport,Is campus in city?,Yes it is in central Hyderabad.
+Transport,Is transport safe?,Yes transport is safe.
+Transport,Is bus pass available?,Yes students can apply.
+Transport,How to get bus pass?,Apply through TSRTC.
+Transport,Is railway station nearby?,Yes Hyderabad stations are accessible.
+Transport,Is airport far?,Airport is at moderate distance.
+Transport,Is college in main area?,Yes located in busy area.
+Transport,Is campus accessible?,Yes easy to access.
+Transport,Is transport expensive?,No affordable options exist.
+Transport,Is metro best option?,Yes convenient option.
+Transport,Is bus crowded?,Depends on time.
+Transport,Can I travel easily?,Yes transport is convenient.
+Transport,Is location central?,Yes central Hyderabad.
+Transport,Is commute easy?,Yes commuting is easy.
+WomenEmpowerment,Is college only for women?,Yes it is a women's university. 
+WomenEmpowerment,Does college support women empowerment?,Yes it focuses on empowering women.
+WomenEmpowerment,Are leadership programs conducted?,Yes students are trained.
+WomenEmpowerment,Is safety ensured?,Yes strong safety measures exist.
+WomenEmpowerment,Are awareness programs conducted?,Yes programs for women empowerment are held.
+WomenEmpowerment,Is self development encouraged?,Yes personal growth is promoted.
+WomenEmpowerment,Are women rights taught?,Yes awareness is provided.
+WomenEmpowerment,Are counseling services available?,Yes support is available.
+WomenEmpowerment,Is campus safe for girls?,Yes secure campus.
+WomenEmpowerment,Are career opportunities supported?,Yes students are guided.
+WomenEmpowerment,Is independence encouraged?,Yes students are trained to be independent.
+WomenEmpowerment,Are workshops conducted?,Yes empowerment workshops are organized.
+WomenEmpowerment,Is gender equality promoted?,Yes equality is encouraged.
+WomenEmpowerment,Are women leaders invited?,Yes guest lectures are conducted.
+WomenEmpowerment,Is skill training provided?,Yes skill programs are conducted.
+WomenEmpowerment,Are extracurricular activities encouraged?,Yes participation is promoted.
+WomenEmpowerment,Is confidence building supported?,Yes programs are available.
+WomenEmpowerment,Is education focused on women growth?,Yes focus on development.
+WomenEmpowerment,Is mentoring available?,Yes faculty guide students.
+WomenEmpowerment,Is empowerment main goal?,Yes it is core objective.
+Environment,Is campus eco friendly?,Yes campus promotes green environment.
+Environment,Are trees available?,Yes campus has greenery. 
+Environment,Is botanical garden available?,Yes botanical garden exists. 
+Environment,Is campus clean?,Yes cleanliness is maintained.
+Environment,Is plastic banned?,Efforts are made to reduce plastic.
+Environment,Are awareness programs conducted?,Yes environmental programs are held.
+Environment,Is waste management done?,Yes proper disposal is followed.
+Environment,Is water conservation practiced?,Yes efforts are made.
+Environment,Is campus green?,Yes it is a green campus.
+Environment,Is gardening maintained?,Yes horticulture is maintained.
+Environment,Are students involved?,Yes students participate.
+Environment,Are eco clubs available?,Yes environmental activities exist.
+Environment,Is pollution controlled?,Yes campus is maintained clean.
+Environment,Is campus peaceful?,Yes environment is calm.
+Environment,Are campaigns conducted?,Yes awareness campaigns occur.
+Environment,Is sustainability promoted?,Yes eco practices are encouraged.
+Environment,Is campus large?,Yes spread over large area. 
+Environment,Are outdoor spaces available?,Yes open spaces exist.
+Environment,Is air quality good?,Yes environment is healthy.
+Environment,Is green campus maintained?,Yes regularly maintained.
+Research,Are research activities available?,Yes research activities are encouraged.
+Research,Do students do projects?,Yes projects are part of courses.
+Research,Is research important?,Yes it improves knowledge.
+Research,Are faculty involved in research?,Yes faculty guide students.
+Research,Are labs available for research?,Yes labs support research work.
+Research,Is project work compulsory?,Depends on course.
+Research,Are publications encouraged?,Yes students are encouraged.
+Research,Is there research guidance?,Yes mentors guide students.
+Research,Are seminars conducted?,Yes research seminars are conducted.
+Research,Are conferences organized?,Yes academic conferences occur.
+Research,Is data science research available?,Yes in relevant departments.
+Research,Are projects graded?,Yes project evaluation is done.
+Research,Is research useful for career?,Yes it improves skills.
+Research,Are research labs modern?,Yes facilities are available.
+Research,Is field work included?,Yes for some courses.
+Research,Is group project allowed?,Yes group work is possible.
+Research,Are final year projects required?,Yes for many courses.
+Research,Is research funded?,Depends on projects.
+Research,Are internships linked to projects?,Yes sometimes.
+Research,Is research encouraged for PG?,Yes strongly encouraged.
+Career,Are internships available?,Students can apply for internships through departments and external platforms.
+Career,Does college help in internships?,Yes faculty guide students.
+Career,Is career guidance available?,Yes career guidance programs are conducted.
+Career,Are skill programs conducted?,Yes skill development programs are organized.
+Career,Does college have placement cell?,Yes placement support is available.
+Career,Are resume workshops conducted?,Yes students are trained.
+Career,Do companies visit campus?,Yes companies visit for recruitment.
+Career,Is placement training given?,Yes training sessions are conducted.
+Career,Can I get job through campus?,Yes placement assistance is available.
+Career,Is career counseling available?,Yes counseling support exists.
+Career,Are soft skills taught?,Yes communication and skills training is provided.
+Career,Is interview training given?,Yes mock interviews are conducted.
+Career,Are internships compulsory?,Depends on course.
+Career,Can I do external internship?,Yes students can apply outside.
+Career,Is project work important?,Yes projects help in career.
+Career,Are workshops conducted?,Yes regularly.
+Career,Is entrepreneurship encouraged?,Yes through training programs.
+Career,Are seminars conducted?,Yes guest lectures and seminars are held.
+Career,Is guidance given for higher studies?,Yes faculty guide students.
+Career,Is placement guaranteed?,Placement depends on student performance.
+Career,Are internships available?,Students can apply for internships through departments and external platforms.
+Career,Does college help in internships?,Yes faculty guide students.
+Career,Is career guidance available?,Yes career guidance programs are conducted.
+Career,Are skill programs conducted?,Yes skill development programs are organized.
+Career,Does college have placement cell?,Yes placement support is available.
+Career,Are resume workshops conducted?,Yes students are trained.
+Career,Do companies visit campus?,Yes companies visit for recruitment.
+Career,Is placement training given?,Yes training sessions are conducted.
+Career,Can I get job through campus?,Yes placement assistance is available.
+Career,Is career counseling available?,Yes counseling support exists.
+Career,Are soft skills taught?,Yes communication and skills training is provided.
+Career,Is interview training given?,Yes mock interviews are conducted.
+Career,Are internships compulsory?,Depends on course.
+Career,Can I do external internship?,Yes students can apply outside.
+Career,Is project work important?,Yes projects help in career.
+Career,Are workshops conducted?,Yes regularly.
+Career,Is entrepreneurship encouraged?,Yes through training programs.
+Career,Are seminars conducted?,Yes guest lectures and seminars are held.
+Career,Is guidance given for higher studies?,Yes faculty guide students.
+Career,Is placement guaranteed?,Placement depends on student performance.
+category,question,answer
+Alumni,What is alumni?,Alumni are former students of the university.
+Alumni,Does the university have alumni?,Yes the university has a strong alumni base.
+Alumni,Are alumni successful?,Yes many alumni are successful in different fields.
+Alumni,Who are some notable alumni?,Notable alumni include Ranjana Kumar and B Chandrakala IAS. 
+Alumni,Who is Ranjana Kumar?,She is a former Chairperson and Managing Director of Indian Bank.
+Alumni,Who is B Chandrakala?,She is an Indian Administrative Service officer. 
+Alumni,Are there alumni in films?,Yes Nandini Reddy is a film director and alumni. 
+Alumni,Are there alumni in politics?,Yes Kompella Madhavi Latha is a politician and alumni. 
+Alumni,Are alumni in social work?,Yes alumni like Anuradha Reddy are involved in heritage and social work.
+Alumni,Does alumni network help students?,Yes alumni provide guidance and inspiration.
+Alumni,Are alumni meetings conducted?,Yes alumni meets may be conducted by the college.
+Alumni,Can students connect with alumni?,Yes during events and programs.
+Alumni,Do alumni help in placements?,Sometimes alumni support career opportunities.
+Alumni,Is alumni association available?,Yes alumni association exists informally and formally.
+Alumni,Why is alumni important?,Alumni represent success of the institution.
+Alumni,Do alumni guide students?,Yes alumni provide career guidance.
+Alumni,Can alumni give guest lectures?,Yes alumni are invited for sessions.
+Alumni,Are alumni recognized?,Yes achievements of alumni are appreciated.
+Alumni,Can I become alumni?,Yes after graduation you become alumni.
+Alumni,Is alumni network strong?,Yes it is growing with time.
+Alumni,Do alumni inspire students?,Yes they motivate current students.
+Basic,Hello,Hello How can I help you
+Basic,Hi,Hello How can I assist you
+Basic,Hey,Hi How can I help you today
+Basic,Good morning,Good morning How can I help you
+Basic,Good afternoon,Good afternoon How can I assist you
+Basic,Good evening,Good evening How can I help you
+Basic,Thank you,You are welcome
+Basic,Thanks,Happy to help
+Basic,Bye,Goodbye Have a nice day
+Basic,Who made you?,I was developed as a final year project to assist students
+Help,What can I ask you?,You can ask about admissions courses fees exams hostel and facilities
+Help,What services do you provide?,I provide information related to college activities and student queries
+Help,What topics do you cover?,Admissions academics exams hostel placements and more
+Help,Help,I can help you with college related questions
+Help,Options,You can ask about fees exams hostel admissions and more
+Fallback,I dont understand,Sorry I did not understand Please ask a college related question
+Fallback,Repeat that,Sorry please ask clearly
+Fallback,Can you explain again?,Please ask your question again clearly
+Fallback,What?,Please enter a valid question
+Fallback,Random question,Sorry I can only answer college related queries
+Advanced,Tell me about fees and admission,Fees vary by course and admissions are through DOST portal
+Advanced,Tell me about hostel and food,Hostel is available with mess facility for students
+Advanced,Give me info about exams and attendance,Exams are semester wise and seventy five percent attendance is required
+Advanced,Explain facilities and placements,Facilities include labs library and placements support is provided
+Advanced,Give me full college details,The university provides courses facilities placements and student support services
+Daily,Where is classroom?,Check department notice board or ask faculty
+Daily,Where is exam hall?,Exam hall details are given in hall ticket
+Daily,Where is office?,Office is located in administrative block
+Daily,Where is principal office?,Principal office is inside campus
+Daily,Where is library?,Library is inside campus building
+Daily,Where to submit forms?,Submit forms at office
+Daily,Where to pay fees?,Fees can be paid at accounts section
+Daily,Where to collect certificates?,Certificates are given in office
+Daily,Who to contact for help?,Contact faculty or office staff
+Daily,Is college open tomorrow?,College is open on working days
+System,What is this project?,This is an AI based college helpdesk chatbot developed using machine learning to assist students with academic and administrative queries.
+System,What are your limitations?,I can only answer questions related to the college and may not handle unrelated queries.
