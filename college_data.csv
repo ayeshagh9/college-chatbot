@@ -19,6 +19,10 @@ Basic,Is it a university now?,Yes it was upgraded to a university in recent year
 Basic,What type of institution is this?,It is a public women's university.
 Basic,Does it have history?,Yes it is a heritage campus with historical importance. 
 Basic,Is it popular in Hyderabad?,Yes it is a well known women's institution in Hyderabad.
+Admissions,What is the admission process?,Admissions are conducted based on merit and university guidelines. Students need to apply through the official admission process and complete document verification at the college.
+Admissions,How can I apply for admission?,Students can apply for admission through the official process as per university guidelines. After applying they must submit required documents for verification.
+Admissions,What documents are required?,Students must submit marksheets transfer certificate identity proof and other required documents during admission.
+Admissions,What is the procedure for admission?,Admissions are based on merit and university guidelines.
 Admissions,What is the admission process?,Admissions are based on merit and university guidelines Students must apply and complete document verification.
 Admissions,How can I get admission?,You can apply through DOST for UG courses.
 Admissions,Is admission online?,Yes admission process is online.
@@ -111,6 +115,9 @@ NSS,Are camps conducted?,Yes NSS camps are organized.
 NSS,Is certificate given?,Yes participation certificates are provided.
 NSS,Is NSS useful?,Yes it develops leadership and social skills.
 NSS,Can students participate in NSS?,Yes students are encouraged.
+Fees,What is fee structure?,The fee structure varies depending on the course and category. Students should contact the college office or check official notices for accurate details.
+Fees,How can I pay fees?,Fees can be paid through the official payment methods provided by the college either online or at the accounts office.
+Fees,Are scholarships available?,Yes eligible students can apply for government scholarships and fee reimbursement schemes.
 Fees,What is the fee structure?,Fee structure varies depending on course and category.
 Fees,How much is BA fee?,BA fees range around 14000 to 98000 for full course. 
 Fees,How much is BSc fee?,BSc fees range around 20000 to 160000 depending on specialization.
@@ -131,7 +138,9 @@ Fees,Is there fine for late payment?,Yes late fee may be applied.
 Fees,Can I pay fees in installments?,Depends on college policy.
 Fees,Is there any extra charges?,Yes lab and exam fees may apply.
 Fees,Where to check fee details?,You can check at college office or official website.
-Exams,When are exams conducted?,Exams are conducted semester wise.
+Exams,When are exams conducted?,Exams are conducted at the end of each semester according to the academic schedule provided by the university.
+Exams,What are passing marks?,Students must secure minimum passing marks as prescribed by the university in each subject.
+Exams,How to apply for revaluation?,Students can apply for revaluation through the examination branch after results are declared.
 Exams,How many exams in a year?,Usually two semesters per year.
 Exams,Who conducts exams?,Exams are conducted under university guidelines.
 Exams,When are results released?,Results are released after evaluation on university portal.
@@ -151,7 +160,9 @@ Exams,Can I write exam with low attendance?,Usually not allowed.
 Exams,Is exam tough?,Depends on preparation.
 Exams,Are practical exams conducted?,Yes practical exams are conducted.
 Exams,Are exams online or offline?,Mostly offline exams are conducted.
-Hostel,Is hostel available?,Yes hostel facility is available for students.
+Hostel,Is hostel available?,Yes hostel facilities are available for students. Allocation depends on availability and eligibility criteria.
+Hostel,What is hostel fee?,Hostel fees are separate from college fees and depend on the type of accommodation and facilities provided.
+Hostel,How to apply for hostel?,Students can apply for hostel facilities through the hostel administration office.
 Hostel,Who can apply for hostel?,Students from long distance can apply.
 Hostel,Is hostel available for all?,No limited seats are available.
 Hostel,Is hostel available for first year?,Generally first year students may not get hostel easily.
@@ -490,3 +501,11 @@ Daily,Who to contact for help?,Contact faculty or office staff
 Daily,Is college open tomorrow?,College is open on working days
 System,What is this project?,This is an AI based college helpdesk chatbot developed using machine learning to assist students with academic and administrative queries.
 System,What are your limitations?,I can only answer questions related to the college and may not handle unrelated queries.
+Attendance,What is minimum attendance?,Students are required to maintain at least 75 percent attendance to be eligible for examinations.
+Attendance,What happens if attendance is low?,Students with low attendance may not be allowed to appear for exams unless condonation is granted.
+Certificates,How to get bonafide certificate?,Students can apply for a bonafide certificate through the college office by submitting a request form.
+Certificates,How to get transfer certificate?,Transfer certificate can be issued after completing necessary formalities at the college office.
+Facilities,What facilities are available?,The college provides facilities such as library computer labs classrooms and student support services.
+Facilities,Is there a library?,Yes the college has a library with academic resources for students.
+Placements,Does college provide placements?,Yes the college provides placement assistance through a placement cell.
+Placements,Is career guidance available?,Yes students receive career guidance and placement support.

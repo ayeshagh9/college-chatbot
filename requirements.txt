@@ -2,3 +2,5 @@ flask
 pandas
 scikit-learn
 gunicorn
+sentence-transformers
+torch
