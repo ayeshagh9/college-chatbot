@@ -68,6 +68,7 @@ def get_response(user_input):
     if not user_input_clean:
         return "Please type a question."
 
+    # greetings
     if user_input_clean in ["hi", "hello", "hey", "good morning", "good afternoon", "good evening"]:
         return "Hello! How can I help you with college information?"
 
@@ -77,31 +78,30 @@ def get_response(user_input):
     if user_input_clean in ["bye", "exit", "quit"]:
         return "Goodbye! Have a nice day."
 
-    # Exact match
+    # exact match
     for i, q in enumerate(cleaned_questions):
         if user_input_clean == q:
             return answers[i]
 
-    # Partial match
+    # strong partial match
     for i, q in enumerate(cleaned_questions):
         if user_input_clean in q or q in user_input_clean:
             return answers[i]
 
-    # Reject clearly unrelated questions
-    if not is_college_related(user_input_clean):
-        return "Sorry, I can only answer questions related to the college."
-
-    # Similarity match
+    # TF-IDF similarity
     user_vector = vectorizer.transform([user_input_clean])
     similarity = cosine_similarity(user_vector, X)
 
     idx = similarity.argmax()
     score = similarity[0][idx]
 
-    if score >= 0.55:
+    print("Matched:", questions[idx], "| Score:", score)
+
+    # lower threshold a bit so valid college questions work
+    if score >= 0.30:
         return answers[idx]
 
-    return "Sorry, I could not find the exact answer. Please ask about admissions, fees, exams, hostel, facilities, placements, certificates, or other college-related topics."
+    return "Sorry, I could not find the exact answer. Please ask about admissions, fees, exams, hostel, facilities, certificates, or placements."
 
 @app.route("/")
 def home():
