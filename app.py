@@ -14,9 +14,7 @@ app = Flask(__name__)
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 CSV_PATH = os.path.join(BASE_DIR, "college_data.csv")
 
-# ----------------------------
 # LOAD DATA
-# ----------------------------
 try:
     data = pd.read_csv(CSV_PATH, encoding="utf-8", error_bad_lines=False)
 except Exception:
@@ -42,7 +40,6 @@ answers = data["answer"].astype(str).str.strip().tolist()
 
 # ----------------------------
 # TEXT CLEANING
-# ----------------------------
 def clean_text(text):
     text = str(text).lower()
     text = text.translate(str.maketrans("", "", string.punctuation))
@@ -87,7 +84,6 @@ cleaned_questions = [normalize_text(q) for q in questions]
 
 # ----------------------------
 # VECTORIZERS
-# ----------------------------
 word_vectorizer = TfidfVectorizer(
     stop_words="english",
     ngram_range=(1, 2)
